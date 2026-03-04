@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, im JPM_090 and im new in the world of programming 
+![Banner](https://thumbs.dreamstime.com/b/perfil-de-ne%C3%B3n-rojo-en-la-ciudad-roma-banner-largo-color-brillante-ilustraci%C3%B3n-vectorial-177080427.jpg?w=992)
 
 <!--
 **JuanPMejia-Dev/JuanPMejia-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
